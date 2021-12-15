@@ -13,7 +13,7 @@ Gebruikte Programmeertalen:
 
 - HTML - Voor de Front-End.
 - CSS/Tailwind - Voor het Front-End Design.
-- Javascript voor Effect Library's
+- Javascript - voor Effect Library's
 
 ## Coders
 @JeanCoding
