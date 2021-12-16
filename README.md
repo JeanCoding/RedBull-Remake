@@ -7,6 +7,9 @@ Een oefening om mijn Tailwind CSS Skills te verbeteren.
 - Mijn Tailwind Skills te verbeteren.
 - Om te leren hoe je UI's kan bouwen/nabouwen en dus nieuwe technieken te leren.
 
+## Currently working on?
+- Het responsive maken van deze pagina doormiddel van Tailwind CSS.
+
 ## Tech
 
 Gebruikte Programmeertalen:
